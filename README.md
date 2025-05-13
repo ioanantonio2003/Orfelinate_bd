@@ -8,7 +8,8 @@ Acest proiect reprezinta un model de baza de date pentru gestionarea informatiil
 
 Modelul este ilustrat in diagrama ER de mai jos:
 
-📌 *Vezi fisierul `DiagramaOrfelinate.png` pentru schema completa.*
+![image](https://github.com/user-attachments/assets/5737052e-f2d8-49c5-8943-030d5f6994d7)
+
 
 ---
 
